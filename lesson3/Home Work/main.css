@@ -1,0 +1,240 @@
+/******************Task 1********************/
+.wrapper {
+    height: 1000px;
+    width: 1920px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 2%;
+    font-size: 2rem;
+}
+
+.a {
+    height: 30%;
+}
+
+.b-c {
+    display: flex;
+    column-gap: 1%;
+    height: 70%;
+}
+
+.b {
+    width: 70%;
+}
+
+.c {
+    width: 30%;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background {
+    background-color: #9f9f9f;
+}
+
+.br-15 {
+    border-radius: 15px;
+}
+
+/******************Task 2-1********************/
+.task2-1 {
+    margin-top: 50px;
+    width: 1920px;
+    height: 1000px;
+    font-size: 2rem;
+}
+
+.height20 {
+    height: 20%;
+}
+
+.header {
+    background-color: #e6f7b0;
+}
+
+.main {
+    display: flex;
+    column-gap: 10px;
+    height: 60%;
+}
+
+.menu {
+    width: 30%;
+    background-color: #ffb7ff;
+}
+
+.posts {
+    height: 100%;
+    width: 100%;
+}
+
+.post {
+    background-color: #9fe2ff;
+}
+
+.footer {
+    background-color: #ffffca;
+}
+
+.border {
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+
+.p-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.height50 {
+    height: 50%;
+}
+
+.row-gap {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+/******************Task 2-2********************/
+
+.task2-2 {
+    margin-top: 50px;
+    width: 1920px;
+    height: 1000px;
+    font-size: 2rem;
+    background-color: #ffffff;
+    color: #ffffff;
+}
+
+.background-blue {
+    background-color: #2269bb;
+}
+
+.background-navy {
+    background-color: #16457a;
+}
+
+.height25 {
+    height: 25%;
+}
+
+.widgets {
+    display: flex;
+    justify-content: space-between;
+}
+
+.width33 {
+    width: 33%;
+}
+
+.p-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contacts {
+    height: 50%;
+}
+
+.row-gap {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+/******************Task 2********************/
+
+.task2 {
+    margin-top: 50px;
+    width: 1920px;
+    height: 1000px;
+    font-size: 2rem;
+    color: white;
+}
+
+.header2 {
+    background-color: #0c65a7;
+    height: 20%;
+}
+
+.nav {
+    background-color: #124b78;
+    height: 15%;
+}
+
+.content {
+    display: flex;
+    height: 45%;
+}
+
+.task2-main {
+    background-color: #16a2c5;
+    width: 70%;
+}
+
+.aside {
+    background-color: #5275ad;
+    width: 30%;
+}
+
+.footer2 {
+    background-color: #7ecce3;
+    height: 20%;
+}
+
+.p-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/******************Additional task********************/
+
+.additional-task {
+    margin-top: 50px;
+    width: 1400px;
+    height: 800px;
+    background-color: #06bcd4;
+    justify-content: space-around;
+    box-sizing: border-box;
+    padding: 4% 2%;
+    font-weight: bolder;
+    color: #9f9f9f;
+}
+
+.center {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.color {
+    color: #9f9f9f;
+}
+
+.box {
+    width: 48%;
+    height: 28%;
+    background-color: #fefefe;
+    border-radius: 10px;
+    display: flex;
+
+}
+
+.icon {
+    width: 70%;
+}
+
+i {
+    font-size: 75px;
+}
+
+h2 {
+    color: #fca13b;
+}
