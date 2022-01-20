@@ -204,3 +204,82 @@
 .icon {
     font-size: 40px;
 }
+
+
+/*******************Task-img_1*****************/
+
+.cw-task-img_1 {
+    margin-top: 50px;
+    width: 1920px;
+    height: 600px;
+    box-sizing: border-box;
+    color: #999999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10%;
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    width: 70%;
+}
+
+.box-with-circle {
+    width: 30%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-box {
+    width: 30%;
+    height: 90px;
+    border: 2px solid #999999;
+    color: #fca13b;
+    border-radius: 50%;
+    position: relative;
+    top: 35px;
+    background-color: white;
+}
+
+.icon {
+    font-size: 1.7rem;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #999999;
+    padding: 25% 5% 15% 5%;
+    align-items: center;
+    text-align: center;
+}
+
+.btn2 {
+    background-color: transparent;
+    width: 80%;
+    height: 50px;
+    font-size: 1.2rem;
+    margin-top: 10%;
+    border: 2px solid black;
+}
+
+.font-black {
+    color: black;
+}
+
+p {
+    margin: 0;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    padding-top: 35%;
+}
