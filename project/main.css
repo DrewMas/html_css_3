@@ -1,0 +1,153 @@
+body {
+    margin: 0 auto;
+    max-width: 1440px;
+    height: 9467px;
+}
+
+* {
+    font-family: Roboto, serif;
+}
+
+.header {
+    height: 84px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.logo-bar {
+    box-sizing: border-box;
+    margin: 0 170px 0 36px;
+}
+
+.nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 177px;
+}
+
+.nav-bar-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 573px;
+}
+
+.why-sprig {
+    margin-right: 10px;
+}
+
+.nav-bar-menu-items a {
+    text-decoration: none;
+    color: #0B2330;
+    margin-right: 8px;
+}
+
+.nav-bar-menu-items img {
+    padding-bottom: 2px;
+}
+
+.nav-bar-buttons {
+    display: flex;
+    column-gap: 24px;
+}
+
+.nav-bar-btn {
+    padding: 0;
+    border: transparent;
+    background-color: transparent;
+}
+
+.sign-in {
+    width: 51px;
+}
+
+.talk-to-sale {
+    width: 87px;
+}
+
+.btn {
+    width: 163px;
+    height: 54px;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.black-btn {
+    border: 1px solid #0B2330;
+    background: #0B2330;
+    color: white;
+}
+
+.font_style {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+/***************Header end*****************/
+
+.above-the-fold {
+    height: 886px;
+    display: flex;
+}
+
+.content-box {
+    margin: 154px 257px 0 147px;
+    width: 436px;
+}
+
+.above-the-fold-title {
+    font-size: 60px;
+    line-height: 64px;
+}
+
+.above-the-fold-text {
+    font-size: 22px;
+    line-height: 32px;
+    margin: 32px 0 38px 0;
+}
+
+p {
+    margin: 0;
+}
+
+.yellow-btn {
+    background: #F9C600;
+    border: 1px solid #F9C600;
+}
+
+.white-btn {
+    background: transparent;
+}
+
+.yellow-box {
+    background: url("img/yellow-box.svg");
+    width: 600px;
+    height: 886px;
+}
+
+.above-the-fold-img {
+    margin: 172px 102px 173px -110px;
+    width: 608px;
+    height: 541px;
+}
+
+.companies {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 186px;
+}
+
+.companies-text {
+    font-size: 42px;
+    line-height: 48px;
+    width: 547px;
+    height: 96px;
+    margin-bottom: 59px;
+}
