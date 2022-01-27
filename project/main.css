@@ -182,6 +182,14 @@ p {
     margin-bottom: 59px;
 }
 
+.companies-img {
+    width: 1096px;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 83px;
+    row-gap: 16px;
+}
+
 .green-box {
     background: #51CEBC;
     border-radius: 10px;
