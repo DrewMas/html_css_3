@@ -93,8 +93,6 @@ body {
     line-height: 24px;
 }
 
-/***************Header end*****************/
-
 .font60 {
     font-size: 60px;
     line-height: 64px;
@@ -210,7 +208,6 @@ p {
     flex-direction: column;
     row-gap: 35px;
 }
-
 
 .table-box {
     display: flex;
