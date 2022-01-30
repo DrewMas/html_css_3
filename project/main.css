@@ -158,7 +158,7 @@ p {
 }
 
 .yellow-box {
-    background: url("img/yellow-box.svg");
+    background: url("../../html_css_project/img/yellow-box.svg");
     width: 600px;
     height: 886px;
 }
